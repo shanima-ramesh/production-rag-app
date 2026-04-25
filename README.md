@@ -23,6 +23,6 @@ from your own PDF documents using LLaMA 3 + ChromaDB.
 pip install langchain langchain-groq langchain-community 
 langchain-huggingface chromadb pypdf sentence-transformers gradio
 
-## 🔑 Setup
+## Setup
 Set your Groq API key:
 GROQ_API_KEY=your_key_here
