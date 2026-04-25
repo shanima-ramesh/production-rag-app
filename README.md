@@ -1,5 +1,3 @@
-# production-rag-app
-
 # Production RAG Application
 
 A Retrieval-Augmented Generation (RAG) app that answers questions 
