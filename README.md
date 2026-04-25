@@ -23,4 +23,4 @@ langchain-huggingface chromadb pypdf sentence-transformers gradio
 
 ## Setup
 Set your Groq API key:
-GROQ_API_KEY=your_key_here
+GROQ_API_KEY=AIzaSyAE4ul7PaMJYkmoeFmapHy1KNoZ06T-Zsg
